@@ -1,1 +1,1 @@
-# Analiza danych w czsaie rzeczywistym
+# Analiza danych w czasie rzeczywistym
